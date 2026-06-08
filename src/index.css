@@ -1,0 +1,6 @@
+/* Clean reset to prevent default Vite styles from overriding App.css */
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #0B0B0E;
+}
