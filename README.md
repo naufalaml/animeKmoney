@@ -1,6 +1,6 @@
-# DramaCuan - Watch Chinese Dramas & Earn Money 🧧
+# AnimeeKmoney - Watch Anime & Earn Money
 
-DramaCuan adalah platform web *Watch-to-Earn* premium yang dirancang khusus untuk penggemar Drama China (Dracin). Pengguna dapat menonton serial favorit mereka, mengumpulkan durasi menonton secara real-time, mendapatkan koin dari milestone menonton, dan menukarkannya langsung menjadi saldo e-wallet atau transfer bank.
+AnimeKmoney adalah platform web *Watch-to-Earn* premium yang dirancang khusus untuk penggemar anme. Pengguna dapat menonton serial favorit mereka, mengumpulkan durasi menonton secara real-time, mendapatkan koin dari milestone menonton, dan menukarkannya langsung menjadi saldo e-wallet atau transfer bank.
 
 Proyek ini dibuat menggunakan **Vite + React + TypeScript + Vanilla CSS** dan dilengkapi dengan simulasi sistem iklan CPM tinggi (pop-under, native banner, interstitial rewarded video) untuk membantu pemilik situs (owner) memaksimalkan pendapatan.
 
@@ -39,7 +39,7 @@ Node.js telah terinstal di sistem Anda. Ikuti langkah berikut untuk menjalankan 
 1. Buka aplikasi terminal (PowerShell atau Command Prompt) baru.
 2. Masuk ke direktori proyek:
    ```bash
-   cd C:\Users\Lenovo\.gemini\antigravity\scratch\cdrama-earn
+   cd C:\Users\Lenovo\.gemini\antigravity\scratch\animeKmoney
    ```
 3. Jalankan perintah server pengembangan:
    ```bash
